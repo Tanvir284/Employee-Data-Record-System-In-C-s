@@ -1,0 +1,15 @@
+C:\Users\Ruhit\Documents\ASSIGNMENT\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe.config
+C:\Users\Ruhit\Documents\ASSIGNMENT\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe
+C:\Users\Ruhit\Documents\ASSIGNMENT\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.pdb
+C:\Users\Ruhit\Documents\ASSIGNMENT\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeesDataRecordSystem.csproj.AssemblyReference.cache
+C:\Users\Ruhit\Documents\ASSIGNMENT\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.AddEmployee.resources
+C:\Users\Ruhit\Documents\ASSIGNMENT\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.Dashboard.resources
+C:\Users\Ruhit\Documents\ASSIGNMENT\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.Form1.resources
+C:\Users\Ruhit\Documents\ASSIGNMENT\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.MainForm.resources
+C:\Users\Ruhit\Documents\ASSIGNMENT\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.Properties.Resources.resources
+C:\Users\Ruhit\Documents\ASSIGNMENT\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.RegisterForm.resources
+C:\Users\Ruhit\Documents\ASSIGNMENT\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.Salary.resources
+C:\Users\Ruhit\Documents\ASSIGNMENT\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeesDataRecordSystem.csproj.GenerateResource.cache
+C:\Users\Ruhit\Documents\ASSIGNMENT\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeesDataRecordSystem.csproj.CoreCompileInputs.cache
+C:\Users\Ruhit\Documents\ASSIGNMENT\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.exe
+C:\Users\Ruhit\Documents\ASSIGNMENT\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.pdb
