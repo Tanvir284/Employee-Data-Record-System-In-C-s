@@ -120,7 +120,7 @@ namespace EmployeeManagementSystem
 
                     using (SqlCommand cmd = new SqlCommand(selectData, connect))
                     {
-                        cmd.Parameters.AddWithValue("@status", "Ianctive");
+                        cmd.Parameters.AddWithValue("@status", "Inactive");
                         SqlDataReader reader = cmd.ExecuteReader();
 
                         if (reader.Read())
