@@ -22,7 +22,7 @@ namespace EmployeeManagementSystem
         public string Status { set; get; } // 8
 
 
-        SqlConnection connect = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\Ruhit\Documents\emp.mdf;Integrated Security=True;Connect Timeout=30");
+        SqlConnection connect = new SqlConnection(DatabaseConfig.GetConnectionString());
     
 
         public List<EmployeeData> employeeListData()
