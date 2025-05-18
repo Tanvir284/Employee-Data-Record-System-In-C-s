@@ -1,0 +1,16 @@
+# Ignore Visual Studio build directories
+bin/
+obj/
+# Ignore user-specific files
+*.user
+*.suo
+*.userprefs
+*.userosscache
+*.sln.docstates
+# Ignore Visual Studio cache directories
+.vs/
+# Ignore build results
+*.exe
+*.dll
+*.pdb
+*.cache
