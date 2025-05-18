@@ -14,7 +14,7 @@ namespace EmployeeManagementSystem
     public partial class Form1 : Form
     {
         SqlConnection connect
-            = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\Ruhit\Documents\emp.mdf;Integrated Security=True;Connect Timeout=30");
+            = new SqlConnection(DatabaseConfig.GetConnectionString());
         public Form1()
         {
             InitializeComponent();
